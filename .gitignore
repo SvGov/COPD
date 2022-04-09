@@ -1,3 +1,6 @@
 /data/*
 startJupyter.cmd
 **/.ipunb_checkpoints/*
+/venv/*
+/VisualizationTools/*
+.idea
