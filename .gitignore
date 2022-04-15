@@ -4,3 +4,4 @@ startJupyter.cmd
 /venv/*
 /VisualizationTools/*
 .idea
+/статьи/*
